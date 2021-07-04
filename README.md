@@ -3,7 +3,7 @@
 
 This is a C program that allows the user to input a list of words to create a crossword puzzle.
 The program will create anagrams to represent the clues, the x and y of the starting letter,
-and the direction.
+and the direction. The program will also notify the user if a certain could not be placed.
 
 1. To make type:
    `make`
