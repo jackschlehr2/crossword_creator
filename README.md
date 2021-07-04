@@ -4,6 +4,7 @@
 This is a C program that allows the user to input a list of words to create a crossword puzzle.
 The program gives anagrams to represent the clues, the x and y coordinates of the starting letter,
 and the direction of the word. The program will also notify the user if a certain could not be placed.
+To terminate the input enter a **.**
 
 1. To make type:
    `make`
@@ -17,6 +18,19 @@ Anagram Crossword Puzzle Generator
 ----------------------------------
 
 Enter a list of words:
+NotreDame
+fightingirish
+UND
+computer
+CSE
+programming
+keyboard
+code
+function
+loop
+not
+if
+.
 The word: LOOP could not be placed in the first pass
 SOLUTION:
 -----------------
