@@ -2,7 +2,7 @@
  * This program is for lab8 of CSE20311 
  *
  *
- *	This file contains the functinons for the crosswiord puzzle project.
+ *	This file contains the functions for the crossword puzzle project.
  *
  *
  *
@@ -25,7 +25,7 @@ extern const int ASCII_Z;
 
 
 /*
- * This funciton is designed to take the board and print it. 
+ * This function is designed to take the board and print it. 
  * The function also puts a boarder around
  * the board. This function will either print to the screen or to the output 
  * file.
