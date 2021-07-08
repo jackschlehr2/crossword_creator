@@ -1,11 +1,11 @@
 /*
  * This program is for lab8 of CSE20311.
  *
- * This is the main function for the project. In this file ther is one function main(),
- * in which everything is run. The program takes a set of words from the user either 
+ * This is the main function for the project. In this file there is one function main(),
+ * in which everything is run. The program takes a set of words from the user either through 
  * the user entering them from the keyboard or from a text file. Either way the program
- * knows when to stop when a period is entered. The program either prints to a file
- * or to the screen. The program generates the crossword puzzle through a brute force 
+ * will terminate the input with a period. The program either prints to a file
+ * or to. The program generates the crossword puzzle through a brute force 
  * method. The program provides the clues for the crossword puzzle in the form
  * of an anagram.
  *
